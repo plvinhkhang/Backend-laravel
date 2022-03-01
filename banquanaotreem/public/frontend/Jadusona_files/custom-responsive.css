@@ -1,0 +1,82 @@
+/* Large screen desktop */
+@media (min-width: 1365px) and (max-width: 1500px){
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+
+
+
+}
+
+
+@media (min-width: 1170px) and (max-width: 1299px){
+
+
+
+}
+
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+  .switcher__account > ul > li.drop .dropdown {
+    left: auto;
+    right: 0;
+  }
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .sidebar-product .content {
+    width: 300px;
+  }
+
+
+
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px){
+  .header-search-wrap {
+    left: -18px;
+  }
+  .cart_dropdown {
+    right: 10px;
+  }
+  .sidebar-product .content {
+    width: 300px;
+  }
+  .pro-info-tab-list li a {
+    padding-bottom: 7px;
+    margin-bottom: 20px;
+  }
+  .spr-summary-caption {
+    margin-bottom: 20px;
+    display: block;
+  }
+  .cart-coupon .cuppon-form textarea {
+    width: 252px;
+  }
+
+
+
+
+
+}
+
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .header-lan-curr > li ul {
+    left: 0;
+    right: auto;
+  }
+
+
+}

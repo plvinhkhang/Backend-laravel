@@ -1,0 +1,9 @@
+.
+coppy thư mục banquanaotreem vào thư mụcC:\wamp64\www
+khởi động wamp64 và vào mysql theo đường dẫn.
+tạo csdl tên CSDL và nhập csdl có ở trong file project: project4.
+tiến hành vào trang chủ web theo đường dẫn: http://localhost:8080/banquanaotreem/home
+để vào trang quản trị, bạn vào đường dẫn: http://localhost:8080/banquanaotreem/login để đăng nhập.
+tài khoản quản trị:
+tk: admin@gmail.com
+mk: 123456
